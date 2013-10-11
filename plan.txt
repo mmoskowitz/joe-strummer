@@ -1,0 +1,8 @@
+Engineering Challenge - User Trial Conversion Predictor
+
+Language: Python 
+
+Database/Data Structure: In-memory, with a note to person porting in data to Sales Force that the data may need to to eventually get dumped into a DB as the data set grows.
+
+SCM - git repo
+
